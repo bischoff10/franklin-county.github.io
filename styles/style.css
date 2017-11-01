@@ -1,0 +1,68 @@
+html {
+	height: 100%;
+	background-color: #303030;
+
+}
+body {
+	width: 80%;
+	margin: 0 auto;
+	padding: 20px;
+	background: linear-gradient(to bottom right, #000046, #0575E6);
+}
+
+h2 {
+	color: white;
+	border-radius: 20px;
+	font-size: 40px;
+	font-family: 'Aref Ruqaa', serif;
+	text-align: center;
+	padding: 20px;
+}
+
+img {
+	display: block;
+	margin: auto;
+  /*max-width: 100%;
+  height: auto;*/
+}
+
+li {
+	list-style-type: none;
+	float: left;
+	margin-right: 10px;
+}
+
+/* #welcome {
+  display: block;
+  border-radius: 50px; 
+  margin-top: 20px;
+  margin-bottom: 10px;
+  max-width: 100%;
+  height: auto;
+}
+
+#courthouse {
+  display: block;
+  margin: auto;
+  border-radius: 20px;
+  max-width: 100%;
+  height: auto;
+  margin-top: 20px;
+}
+
+.btn-primary {
+  border-radius: 10px;
+  background-color: #1D222F;
+  border: none;
+  margin: auto;
+}
+.row nav {
+  margin: auto;
+  background-color: rgba(45, 35, 24, .5);
+  padding-top: 20px;
+  border-radius: 20px;
+  
+}*/
+
+/*This is a comment in CSS*/
+
